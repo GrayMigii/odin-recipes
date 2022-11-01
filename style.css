@@ -1,0 +1,25 @@
+*{
+    color: white;
+}
+
+
+body {
+    background-color: rgb(41, 41, 41);
+}
+
+img {
+    border-radius: 10px;
+}
+
+.description, .links, .ingredients, .steps{
+    padding: 20px;
+    margin: 10px;
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.heading{
+    margin-left: 10px;
+    text-decoration: underline;
+}
+
